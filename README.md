@@ -2,9 +2,6 @@
 Tasks app is todo list, planner & task app for managing and organizing your daily tasks, to-do lists, notes, reminders, checklists, calendar events, grocery lists, and much more.
 
 
-
-[![buymecoffee1 (2)](https://github.com/KaushalVasava/Tasks/assets/49050597/327844b7-b9a4-4c5d-beb7-e9e177c82880)](https://www.buymeacoffee.com/kaushal.developer)
-
 # Screenshots
 
 ![5](https://github.com/KaushalVasava/Tasks/assets/49050597/9310c158-a0cd-4684-93ff-4857f2d81a69)
